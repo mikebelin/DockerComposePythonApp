@@ -3,5 +3,6 @@ A simple Python web application running on Docker Compose. The application uses 
 
 To run: 
 
-``` docker-compose up
+``` 
+docker-compose up
 ```
